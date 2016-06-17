@@ -9,7 +9,7 @@ Here's some instructions on getting the program running:
 
 1. Before launching program, run MySQL Server.
 
-2. Create user 'scott' identified by 'tiger' (or edit the "hibernate.cfg.xml" file with your own user) and
+2. Create user 'scott' identified by 'tiger' (or edit the <a href="https://github.com/richard1990/CST8277-Assignment3/blob/master/src/hibernate.cfg.xml">"hibernate.cfg.xml"</a> file with your own user) and
    grant the user the necessary permissions. Create a database called "assignment03".
 
 3. Run "SpriteWorld" to start the server. By default, it will use "localhost" as the hostname, however 
